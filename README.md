@@ -1,1 +1,1 @@
-# 2021_exit_velo_launch_angle
+# 2021 Exit Velocities & Launch Angles (as of 7/29/2021)
