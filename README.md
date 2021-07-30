@@ -10,7 +10,7 @@ The data was retrieved from Baseball Savant, using only batting data for qualifi
 
 ## EDA:
 
-![plot](/plot.png)
+![plot](plot.png)
 
 |    | full_name    |   exit_velocity_avg |   launch_angle_avg | slash_line          |   b_home_run |
 |---:|:-------------|--------------------:|-------------------:|:--------------------|-------------:|
