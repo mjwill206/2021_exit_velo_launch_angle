@@ -17,10 +17,12 @@ The data was retrieved from Baseball Savant, using only batting data for qualifi
 | 62 | Adam Duvall  |                90.3 |               24   | .228/.276/.478/.755 |           22 |
 | 71 | Raimel Tapia |                86.5 |               -3.1 | .286/.34/.385/.725  |            5 |
 
-|    | full_name    |   exit_velocity_avg |   launch_angle_avg | slash_line          |   b_home_run |
-|---:|:-------------|--------------------:|-------------------:|:--------------------|-------------:|
-| 62 | Adam Duvall  |                90.3 |               24   | .228/.276/.478/.755 |           22 |
-| 71 | Raimel Tapia |                86.5 |               -3.1 | .286/.34/.385/.725  |            5 |
++-----+----------------+---------------------+--------------------+---------------------+--------------+\
+| full_name      |   exit_velocity_avg |   launch_angle_avg | slash_line          |   b_home_run |\n+=====+================+=====================+====================+=====================+==============+
+|  54 | Aaron Judge    |                95.9 |               10   | .283/.377/.52/.898  |           21 |
++-----+----------------+---------------------+--------------------+---------------------+--------------+
+| 118 | David Fletcher |                82.5 |                7.8 | .305/.328/.379/.708 |            2 |
++-----+----------------+---------------------+--------------------+---------------------+--------------+
 
 ## Results:
 There is a positive relationship between average exit velocities and launch angles. This is intuitive - one would think that if you hit the ball harder on average that the angle at which the ball leaves the bat would be greater.
